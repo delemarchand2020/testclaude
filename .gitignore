@@ -11,8 +11,15 @@ venv/
 env/
 .venv/
 .env/
+testenv/
+
 
 # Distribution / packaging
 dist/
 build/
 *.egg-info/
+
+#specific files
+test.txt
+marie.jpg
+1682667763804.jpg:Zone.Identifier
