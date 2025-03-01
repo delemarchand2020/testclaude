@@ -80,6 +80,22 @@ Après vérification de la synchronisation, j'ai finalisé le projet en poussant
 pousse le tout sur le git distant
 ```
 
+## Le résultat final
+
+Voici à quoi ressemble l'application en action :
+
+![Interface de l'application d'analyse d'images](screenshot_app_finale.png "Application d'analyse d'images avec GPT-4o")
+
+Comme vous pouvez le voir sur cette capture d'écran, l'application propose :
+- Une interface claire et intuitive
+- Un bouton pour télécharger une image
+- Un champ pour ajouter un prompt personnalisé
+- Une zone d'aperçu de l'image sélectionnée
+- Un bouton pour lancer l'analyse
+- Une section affichant le résultat de l'analyse en français
+
+Dans cet exemple, l'application a parfaitement analysé un paysage de montagnes avec un champ de lupins violets, décrivant avec précision les éléments clés de la scène.
+
 ## Le coût final
 
 Le coût total ? Environ 1 USD, uniquement pour l'utilisation de Claude Code. C'est remarquablement économique pour développer une application d'analyse d'images fonctionnelle avec une interface web.
