@@ -32,7 +32,7 @@ def analyze_image(image_path):
                 {
                     "role": "user",
                     "content": [
-                        {"type": "text", "text": "Please describe this image in detail. What do you see?"},
+                        {"type": "text", "text": "Please describe in french this image in detail. What do you see?"},
                         {"type": "image_url", 
                          "image_url": {
                              "url": f"data:image/jpeg;base64,{base64_image}"
